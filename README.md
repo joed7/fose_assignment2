@@ -4,4 +4,5 @@ message for commit zero
 message for commit three
 #commit four
 message for commit four
-
+#message seven
+message for commit seven
