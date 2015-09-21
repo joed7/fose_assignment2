@@ -11,3 +11,6 @@ message for commit fifth
 
 #commit two
 message for commit two; merge coflcit resolution
+
+#message ten
+message for commit 10
