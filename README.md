@@ -17,3 +17,6 @@ message for commit nine
 
 #message eleven
 conflict resolution between bug-fix and bug-fix-experimental for commit eleven
+
+#messge twelve
+message for commt twwelve
